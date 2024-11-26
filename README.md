@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maxou2003
 - 👀 I’m interested in application developpemnent and cyber security !
 - 🌱 I’m currently learning computer science and automation at Polytech Angers.
-- 💞️ I’m looking to collaborate on diverse project, I'm open to discussion.
+- 💞️ I’m looking to collaborate on diverse projects, I'm open to discussion.
 - 📫 How to reach me : by mail at "lemaila.maxence$gmail.com" (exchange the $ with @)
 - 😄 Pronouns: he,him
 
